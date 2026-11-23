@@ -47,6 +47,18 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8#skym3u.dev
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Ekushe TV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",SONY PAL
+http://live.balajibroadband.com:3500/live/474.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Star Movies HD
+http://116.90.120.149:8000/play/a13a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony Aath
+http://27.124.71.27/Sony_Aath/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony SAB (720p)
+http://116.90.120.149:8000/play/a128/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony BBC Earth
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/499681.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",N TV
