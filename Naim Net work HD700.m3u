@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",BTV News
-https://btv.hridoytv-channel.workers.dev/news.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",BTV National
+https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",BTV
-https://btv.hridoytv-channel.workers.dev/btv.m3u8
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Rajdhani
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐌𝐮𝐬𝐢𝐜",Bengali Beats
-https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐌𝐮𝐬𝐢𝐜",SRK
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="Entertainment",Aamar Bangla (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="Music",ATN Music (360p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="Music",Channel S (United Kingdom) (576p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Banglavision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Somoy Tv
-https://tvsen5.aynascope.net/somoytv/mono.m3u8
+https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="General",T Sports
 http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
@@ -24,7 +24,7 @@ https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMp
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Independent
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel 24
-https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/1369523.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",ATN News
@@ -32,7 +32,7 @@ https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="News",Probashi TV News (1080p)
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐊𝐢𝐝𝐬",Sony YaY
-https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8
+https://r2.amml.in/sony-yay/live.m3u8
 #EXTINF:-1 tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="News",Jamuna TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8?e=1784102531&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d17e86aa2e6745043e84e0547d4fb69a
 #EXTINF:-1 tvg-id="0875f2c8-2043-499b-9472-2872412a6340" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="News",DBC News
@@ -60,7 +60,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Somoy Tv
 https://stream.ottplus.bd/live/somoy_tv_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="General",Mohona TV HD
-https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8#skym3u.dev
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="General",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Independent
@@ -70,7 +70,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Jamuna
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel 1
-https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Rajdhani
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",News 21 Bangla TV
