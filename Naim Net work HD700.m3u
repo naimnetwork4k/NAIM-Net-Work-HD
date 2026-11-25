@@ -53,10 +53,24 @@ http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass
 http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Star Movies HD
 http://116.90.120.149:8000/play/a13a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony Entertainment Television HD
+https://hmairmedia.ai.studio/api/play/Sony%20Entertainment%20Television%20HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony Entertainment Television
+https://hmairmedia.ai.studio/api/play/Sony%20Entertainment%20Television.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony MAX HD
+https://hmairmedia.ai.studio/api/play/Sony%20MAX%20HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony MAX
+https://hmairmedia.ai.studio/api/play/Sony%20MAX.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony PIX HD
+https://hmairmedia.ai.studio/api/play/Sony%20PIX%20HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony MAX 2
+https://hmairmedia.ai.studio/api/play/Sony%20MAX%202.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony Aath
 http://27.124.71.27/Sony_Aath/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony YAY
+https://hmairmedia.ai.studio/api/play/Sony%20YAY.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony SAB (720p)
-http://116.90.120.149:8000/play/a128/index.m3u8
+https://hmairmedia.ai.studio/api/play/Sony%20SAB%20HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony BBC Earth
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/499681.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony Movies
