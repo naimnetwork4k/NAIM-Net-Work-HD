@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ch_0" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/btv-shangshad.webp" group-title="Entertainment",Shangshad Bangladesh
+https://bd-tv.sm-monirul-islam-rs.workers.dev/btv_shangshad/index.m3u8
+#EXTINF:-1 tvg-id="ch_2" tvg-logo="https://pub-dbd59bcc344f405ab5a1f9697b81831f.r2.dev/btv-news.webp" group-title="News",BTV News
+https://bd-tv.sm-monirul-islam-rs.workers.dev/btv_news/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",BTV National
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",BTV
@@ -58,19 +62,19 @@ https://hmairmedia.ai.studio/api/play/Sony%20Entertainment%20Television%20HD.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony Entertainment Television
 https://hmairmedia.ai.studio/api/play/Sony%20Entertainment%20Television.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony MAX HD
-https://hmairmedia.ai.studio/api/play/Sony%20MAX%20HD.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/sony_max/playlist.m3u8?edge-cache-token=Expires=1795795232~Starts=1795791632~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWY1YzdmNDItZWJkMi00ZmUwLWJlYWItNWM5ZTIzMDc3ZmI1In0~Signature=lMMSg13B1TAhSIOVEANl_AvGpfOWKcyPKnMvVPrWyadr8T2xmZE02kq9-p7jybhaupJ2sOj0-9vSybzAHuv9CA
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony MAX
 https://hmairmedia.ai.studio/api/play/Sony%20MAX.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony PIX HD
-https://hmairmedia.ai.studio/api/play/Sony%20PIX%20HD.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8?edge-cache-token=Expires=1795795232~Starts=1795791632~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWY1YzdmNDItZWJkMi00ZmUwLWJlYWItNWM5ZTIzMDc3ZmI1In0~Signature=lMMSg13B1TAhSIOVEANl_AvGpfOWKcyPKnMvVPrWyadr8T2xmZE02kq9-p7jybhaupJ2sOj0-9vSybzAHuv9CA
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony MAX 2
-https://hmairmedia.ai.studio/api/play/Sony%20MAX%202.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8?edge-cache-token=Expires=1795795232~Starts=1795791632~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWY1YzdmNDItZWJkMi00ZmUwLWJlYWItNWM5ZTIzMDc3ZmI1In0~Signature=lMMSg13B1TAhSIOVEANl_AvGpfOWKcyPKnMvVPrWyadr8T2xmZE02kq9-p7jybhaupJ2sOj0-9vSybzAHuv9CA
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony Aath
 http://27.124.71.27/Sony_Aath/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony YAY
 https://hmairmedia.ai.studio/api/play/Sony%20YAY.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony SAB (720p)
-https://hmairmedia.ai.studio/api/play/Sony%20SAB%20HD.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8?edge-cache-token=Expires=1795795232~Starts=1795791632~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWY1YzdmNDItZWJkMi00ZmUwLWJlYWItNWM5ZTIzMDc3ZmI1In0~Signature=lMMSg13B1TAhSIOVEANl_AvGpfOWKcyPKnMvVPrWyadr8T2xmZE02kq9-p7jybhaupJ2sOj0-9vSybzAHuv9CA
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony BBC Earth
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/499681.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbDNWwTG/1000267054-Picsart-Background-Remover-jpg-(1).png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Sony Movies
